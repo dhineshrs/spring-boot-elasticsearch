@@ -1,4 +1,4 @@
-## ElasticSearc
+## ElasticSearch
 **ElasticSearch** is **an Open-source Enterprise REST based Real-time Search and Analytics Engine**. It’s *core Search Functionality* is built using Apache Lucene, but supports many other features.
 
 Elasticsearch is a **highly scalable open-source full-text search and analytics engine**. It *allows you to store, search, and analyze big volumes of data quickly* and in near real time. It is generally used as the underlying engine/technology that powers applications that have complex search features and requirements.
