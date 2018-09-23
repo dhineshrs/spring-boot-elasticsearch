@@ -30,7 +30,7 @@ It is *written in Java Language*. It **supports Store, Index, Search and Analyze
 - Build Charts and Dashboards within no time
 
 ## Drawbacks or Limitations of ElasticSearch
-Does NOT support MapReduce operations
+- Does NOT support MapReduce operations
 - Not useful as a Primary Data Store
 - Not an ACID compliant Data Store
 - Does not support Transactions and Distributed Transactions
